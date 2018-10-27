@@ -1,0 +1,15 @@
+{
+ "creation": "2017-08-17 02:16:58.060374", 
+ "css": ".print-heading {\n\ttext-align: right;\n\ttext-transform: uppercase;\n\tcolor: #666;\n\tpadding-bottom: 10px;\n\tmargin-bottom: 10px;\n\tborder-bottom: 1px solid #d1d8dd;\n}\n\n.print-heading h2 {\n\tfont-size: 24px;\n}\n\n.print-format th {\n\tbackground-color: #eee !important;\n\tborder-bottom: 0px;\n}\n\n.print-format {\n\t\tbackground-color: white;\n\t\tmax-width: 8.3in;\n\t\t/*min-height: auto;*/\n\t\tpadding: 30px !important;\n\t    margin: 10px;\n}\n\n/* modern format: for-test */", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Print Style", 
+ "idx": 8, 
+ "modified": "2018-08-28 17:27:36.934932", 
+ "modified_by": "sree@sundineproduce.com", 
+ "name": "Modern", 
+ "owner": "Administrator", 
+ "preview": "/assets/frappe/images/help/print-style-modern.png", 
+ "print_style_name": "Modern", 
+ "standard": 1
+}
